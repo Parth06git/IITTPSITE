@@ -1,0 +1,44 @@
+@media(max-width:750px){
+
+    .add{
+        background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/background2.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: auto;
+        position:inherit;
+    }
+
+    .text-box h1{
+        color: orange;
+        padding-bottom: 50%;
+        padding-top: 20%;
+    }
+
+    .text-box p{
+        padding-top: 65%;
+        font-size: 20px;
+    }
+
+    .add h3{
+        width: 80%;
+        padding-top: 12%;
+        padding-bottom: 10%;
+        color:white;
+        font-size: 20px;
+    }
+
+    .lik{
+        color: orange;
+    }
+
+    .home{
+        border: 1px solid orange;
+        border-radius: 12px;
+        color: white;
+    }
+
+    .can{
+        height: 100vh;
+    }
+
+}
